@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <!--Nekomimi-->
+                <node id="Progression">
+                  <attribute id="AllowImprovement" type="bool" value="false"/>
+				  <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)"/> <!--add any boosts. must at least specify movement speed for base race-->
+                   <attribute id="Level" type="uint8" value="1"/>
+                   <attribute id="Name" type="LSString" value="Nekomimi"/> <!--Race/Subrace name-->
+                   <attribute id="PassivesAdded" type="LSString" value="SuperiorDarkvision;ExtraAttack;SecondStoryWork"/> <!--add any passives-->
+                   <attribute id="PassivesRemoved" type="LSString" value=""/>
+                   <attribute id="ProgressionType" type="uint8" value="2"/>
+                   <attribute id="Selectors" type="LSString" value=""/>
+                   <attribute id="TableUUID" type="guid" value="2dd1506b-ecf0-499c-a889-4859fae8a692"/> <!--ProgressionTableUUID from Races/Races.lsx-->
+                   <attribute id="UUID" type="guid" value="1bcc2896-06d4-4dec-9b55-e84f91f29f43"/> <!--generate with multi-tool, but not referenced anywhere-->
+                  </node>    
+                <!--Calico Nekomimi-->
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Charisma,2)"/> <!--add any boosts-->
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="CalicoNekomimi"/> <!--Race/Subrace name-->
+                    <attribute id="PassivesAdded" type="LSString" value="Halfling_Lucky;FastMovement"/> <!--add any passives-->
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value=" "/>
+                    <attribute id="TableUUID" type="guid" value="d7029c1b-60b1-4e66-ac1e-fa7ebe590fa2"/> <!--ProgressionTableUUID from Races/Races.lsx-->
+                    <attribute id="UUID" type="guid" value="243a31cd-1c26-4b58-9068-3bfafd039c2c"/> <!--generate with multi-tool, but not referenced anywhere-->
+                </node>         
+                <!--Orange Nekomimi-->
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,2);Ability(Constitution,1)"/> <!--add any boosts-->
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="OrangeNekomimi"/> <!--Race/Subrace name-->
+                    <attribute id="PassivesAdded" type="LSString" value="RelentlessEndurance;SavageAttacks"/> <!--add any passives-->
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="3f82a2eb-1da8-4303-9abb-55830da83ffe"/> <!--ProgressionTableUUID from Races/Races.lsx-->
+                    <attribute id="UUID" type="guid" value="85f18bd2-f4d6-4d64-a62f-2eb9915150d9"/> <!--generate with multi-tool, but not referenced anywhere-->
+                </node>     
+                <!--Void Nekomimi--> 
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Dexterity,2)"/> <!--add any boosts-->
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="VoidNekomimi"/> <!--Race/Subrace name-->
+                    <attribute id="PassivesAdded" type="LSString" value="DangerSense;FastMovement"/> <!--add any passives-->
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4e9af804-7ab4-4819-95f5-0965ded2dcbf"/> <!--ProgressionTableUUID from Races/Races.lsx-->
+                    <attribute id="UUID" type="guid" value="4ad57e1a-27af-4a4c-9577-3b07c18646d4"/> <!--generate with multi-tool, but not referenced anywhere-->
+                </node>  		
+            </children>
+        </node>
+    </region>
+</save>

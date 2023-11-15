@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <!--contentuid corresponds to the UUID of whatever section you want to write text for-->
+	<content contentuid="HANDLE" version="1">TEXT</content> 
+
+    <!--Nekomimi-->
+    <!--Name-->
+    <content contentuid="h191a7f73gab4bg4864g89ccg23a6865866fd" version="1">Nekomimi</content> 
+    <!--Description-->
+    <content contentuid="hdd4eda70gb3f3g4672gb09bg830d44b5d322" version="1">Nekomimi, or “cat-eared,” are strikingly similar to your average meowing companion. With fluffy tails and ears to match, Nekomimi are the cuddliest of all the faces you see in Faerûn - but don't underestimate them! Their claws can pack a real punch.</content> 
+    <!--Tag Name-->
+    <content contentuid="h32fb9981g4150g4b8eg8196gc56a15dd256a" version="1">Nekomimi</content> 
+    <!--Tag Description-->
+    <content contentuid="he1624c73g7d8cg4ab5g9f9dg0176e94c5db1" version="1">Nekomimi, or “cat-eared,” are strikingly similar to your average meowing companion. With fluffy tails and ears to match, Nekomimi are the cuddliest of all the faces you see in Faerûn - but don't underestimate them! Their claws can pack a real punch.</content> 
+
+    <!--Calico Nekomimi-->
+    <!--Name-->
+    <content contentuid="hb95f4779g03c3g44cfg99b7g9ccbfa2468d1" version="1">Calico Nekomimi</content> 
+    <!--Description-->
+    <content contentuid="h2c3c0d2eg8f18g443cgad9agc4e1182a3702" version="1">Sassy and spunky, Calico Nekomimi are as diverse and breathtaking as their coat patterns. They are especially charismatic and have a mystic aura about them, granting them an affinity with magic. The majority of Calico Nekomimi are female, so count yourself lucky if you come across a male kitty!</content> 
+    <!--Tag Name-->
+    <content contentuid="h00b8568cg9b91g4b16gb243gbc84014587da" version="1">Calico Nekomimi</content> 
+    <!--Tag Description-->
+    <content contentuid="h241693f0ge080g4e36ga64ag29a64e09b8d0" version="1">Sassy and spunky, Calico Nekomimi are as diverse and breathtaking as their coat patterns. They are especially charismatic and have a mystic aura about them, granting them an affinity with magic. The majority of Calico Nekomimi are female, so count yourself lucky if you come across a male kitty!</content> 
+
+    <!--Orange Nekomimi-->
+    <!--Name-->
+    <content contentuid="h6183c8c4ge9a3g4599g849bg57269e40915a" version="1">Orange Nekomimi</content> 
+    <!--Description-->
+    <content contentuid="hcfec0c02gbd51g4769g892cga33681994b43" version="1">What they lack in intelligence, they make up for in love and strength! Orange Nekomimi may be the silliest of all Nekomimi, but beware their cattitude. Orange Nekomimi are a force to be reckoned with!</content> 
+    <!--Tag Name-->
+    <content contentuid="h2dec9c97g1537g4b31g94cag151a94715fa5" version="1">Orange Nekomimi</content> 
+    <!--Tag Description-->
+    <content contentuid="h37ec02fdgd7b7g4aafga21agacdf10caeaef" version="1">What they lack in intelligence, they make up for in love and strength! Orange Nekomimi may be the silliest of all Nekomimi, but beware their cattitude. Orange Nekomimi are a force to be reckoned with!</content> 
+
+    <!--Void Nekomimi-->
+    <!--Name-->
+    <content contentuid="hb023b6c7g31a2g44d9ga198g35c856cd52ab" version="1">Void Nekomimi</content> 
+    <!--Description-->
+    <content contentuid="h254e4c21g1145g40dbg8684g891988c8862d" version="1">Did that shadow just move? Nope! It's a fluffy Void Nekomimi. Dark as night, these lovely voids blend into the shadows and are amazingly dexterous. You'll need to roll quite high on your perception check in order to clock these kitties!</content> 
+    <!--Tag Name-->
+    <content contentuid="hc67c3225gfdb9g47b2g9766gdf73b56a01ff" version="1">Void Nekomimi</content> 
+    <!--Tag Description-->
+    <content contentuid="hc71ec142ge21ag41beg9ab7g21e3544bc3b5" version="1">Did that shadow just move? Nope! It's a fluffy Void Nekomimi. Dark as night, these lovely voids blend into the shadows and are amazingly dexterous. You'll need to roll quite high on your perception check in order to clock these kitties!</content> 
+</contentList>

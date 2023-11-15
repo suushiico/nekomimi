@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="5ec8fb9f-560f-4ca4-a0a4-26e16fae0023" /> <!--ID in Content/[PAK]_CharacterVisuals/_merged.lsx-->
+					<attribute id="EquipmentRace" type="guid" value="7dd0aa66-5177-4f65-b7d7-187c02531b0b" /> <!--keep-->
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Elf_Male" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="c459f5ac-4446-6e66-4740-1d47a0d8d333-_(Icon_Elf_Male)" /> <!--keep-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="0bc482a2-d8ec-4f3f-9ba2-de03b467ce37" /> <!--generated, referenced in Male Player-->
+					<attribute id="Name" type="LSString" value="BASE_Elves_Male_Nekomimi" /> <!--change name-->
+					<attribute id="ParentTemplateId" type="FixedString" value="0bbd332f-747c-406c-b397-d2f607a49900" /> <!--keep-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209010" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+      		</children>
+    	</node>
+ 	</region>
+</save>

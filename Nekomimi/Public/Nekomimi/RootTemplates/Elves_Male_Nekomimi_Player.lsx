@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="9a5f1747-f6f1-4a0b-86e9-0c1a7445fbe8" /> <!--ID in Content/[PAK]_CharacterVisuals/_merged.lsx-->
+					<attribute id="Flag" type="int32" value="0" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="015bd884-82d1-cc15-2a0f-0cb8524028f4-_(Icon_Elf_Male)" /> <!--keep-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="c49a56de-f8a9-42a1-ac1a-e3167f99d78b" /> <!--generated-->
+					<attribute id="Name" type="LSString" value="Elves_Male_Nekomimi_Player" /> <!--change-->
+					<attribute id="ParentTemplateId" type="FixedString" value="0bc482a2-d8ec-4f3f-9ba2-de03b467ce37" /> <!--from BASE Male-->
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" /> <!--keep-->
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!--keep-->
+					<attribute id="Stats" type="FixedString" value="HeroElfMale" /> <!--keep-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+      		</children>
+    	</node>
+ 	</region>
+</save>

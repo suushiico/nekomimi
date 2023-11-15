@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="c9e2e003-1400-4d61-99cb-a2a129226890" /> <!--ID in Content/[PAK]_CharacterVisuals/_merged.lsx-->
+					<attribute id="Flag" type="int32" value="0" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" /> <!--keep-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="a41d6852-b871-4bc5-b7d5-7a85521ab636" /> <!--generated-->
+					<attribute id="Name" type="LSString" value="Elves_Female_Nekomimi_Player" /> <!--change-->
+					<attribute id="ParentTemplateId" type="FixedString" value="7535aa33-4532-47c2-ad9f-2a0c5f27a7c4" /> <!--from BASE Female-->
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" /> <!--keep-->
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!--keep-->
+					<attribute id="Stats" type="FixedString" value="HeroElfFemale" /> <!--keep-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

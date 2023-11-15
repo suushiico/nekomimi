@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="47"/>
+  <region id="CharacterCreationPresets">
+    <node id="root">
+      <children>
+          <!--Calico Nekomimi-->
+          <!--fem-->
+          <node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/> <!--keep-->
+          <attribute id="BodyType" type="uint8" value="1"/> <!--keep-->
+          <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_Closeup_A"/> <!--keep-->
+          <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_Closeup_B"/> <!--keep-->
+          <attribute id="Overview" type="LSString" value="ELF_F_Camera_Overview_A"/> <!--keep-->
+          <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
+          <attribute id="RootTemplate" type="guid" value="a41d6852-b871-4bc5-b7d5-7a85521ab636"/>
+					<attribute id="SubRaceUUID" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb"/> <!--UUID of subrace in Races/Races.lsx-->
+          <attribute id="UUID" type="guid" value="01460490-476e-459c-9e56-f281a11162cd"/> <!--generate with multi-tool, not referenced anywhere-->
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
+        </node>
+        <!--masc-->
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/> <!--keep-->
+          <attribute id="BodyType" type="uint8" value="0"/> <!--keep-->
+          <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_Closeup_A"/> <!--keep-->
+          <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_Closeup_B"/> <!--keep-->
+          <attribute id="Overview" type="LSString" value="ELF_M_Camera_Overview_A"/> <!--keep-->
+          <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
+          <attribute id="RootTemplate" type="guid" value="c49a56de-f8a9-42a1-ac1a-e3167f99d78b"/>
+					<attribute id="SubRaceUUID" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb"/> <!--UUID of subrace in Races/Races.lsx-->
+          <attribute id="UUID" type="guid" value="0abb91f8-9b29-4805-b709-c15fc03edb6b"/> <!--generate with multi-tool, not referenced anywhere-->
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
+        </node>
+        <!--fem strong-->
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/> <!--keep-->
+          <attribute id="BodyType" type="uint8" value="1"/> <!--keep-->
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/> <!--keep-->
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/> <!--keep-->
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/> <!--keep-->
+          <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
+          <attribute id="RootTemplate" type="guid" value="5794199c-a713-497b-a5ed-ce955e131479"/>
+					<attribute id="SubRaceUUID" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb"/> <!--UUID of subrace in Races/Races.lsx-->
+          <attribute id="UUID" type="guid" value="b4c3120a-2ccf-4af0-aa7a-c1cb17880da6"/> <!--generate with multi-tool, not referenced anywhere-->
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
+        </node>
+        <!--masc strong-->
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/> <!--keep-->
+          <attribute id="BodyType" type="uint8" value="0"/> <!--keep-->
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/> <!--keep-->
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/> <!--keep-->
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/> <!--keep-->
+          <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
+          <attribute id="RootTemplate" type="guid" value="277dba84-1fe7-48c4-be5d-918641e7e6b0"/>
+					<attribute id="SubRaceUUID" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb"/> <!--UUID of subrace in Races/Races.lsx-->
+          <attribute id="UUID" type="guid" value="5aff586d-55f7-4fb4-af55-88d2c1fb91c8"/> <!--generate with multi-tool, not referenced anywhere-->
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
+       </node>
+       <!--Orange Nekomimi-->
+       <!--fem-->
+       <node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/> <!--keep-->
+          <attribute id="BodyType" type="uint8" value="1"/> <!--keep-->
+          <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_Closeup_A"/> <!--keep-->
+          <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_Closeup_B"/> <!--keep-->
+          <attribute id="Overview" type="LSString" value="ELF_F_Camera_Overview_A"/> <!--keep-->
+          <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
+          <attribute id="RootTemplate" type="guid" value="a41d6852-b871-4bc5-b7d5-7a85521ab636"/>
+					<attribute id="SubRaceUUID" type="guid" value="75fad8a7-3b4a-406f-9ca2-28d0284806c0"/> <!--UUID of subrace in Races/Races.lsx-->
+          <attribute id="UUID" type="guid" value="77a5d86a-5358-473f-bf0c-d24448135b22"/> <!--generate with multi-tool, not referenced anywhere-->
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
+        </node>
+        <!--masc-->
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/> <!--keep-->
+          <attribute id="BodyType" type="uint8" value="0"/> <!--keep-->
+          <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_Closeup_A"/> <!--keep-->
+          <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_Closeup_B"/> <!--keep-->
+          <attribute id="Overview" type="LSString" value="ELF_M_Camera_Overview_A"/> <!--keep-->
+          <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
+          <attribute id="RootTemplate" type="guid" value="c49a56de-f8a9-42a1-ac1a-e3167f99d78b"/>
+					<attribute id="SubRaceUUID" type="guid" value="75fad8a7-3b4a-406f-9ca2-28d0284806c0"/> <!--UUID of subrace in Races/Races.lsx-->
+          <attribute id="UUID" type="guid" value="b737cf20-cc2b-4fd5-b79b-898498df1e61"/> <!--generate with multi-tool, not referenced anywhere-->
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
+        </node>
+        <!--fem strong-->
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/> <!--keep-->
+          <attribute id="BodyType" type="uint8" value="1"/> <!--keep-->
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/> <!--keep-->
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/> <!--keep-->
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/> <!--keep-->
+          <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
+          <attribute id="RootTemplate" type="guid" value="5794199c-a713-497b-a5ed-ce955e131479"/>
+					<attribute id="SubRaceUUID" type="guid" value="75fad8a7-3b4a-406f-9ca2-28d0284806c0"/> <!--UUID of subrace in Races/Races.lsx-->
+          <attribute id="UUID" type="guid" value="ac950222-4d46-4d43-81c4-e6092f64ec1f"/> <!--generate with multi-tool, not referenced anywhere-->
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
+        </node>
+        <!--masc strong-->
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/> <!--keep-->
+          <attribute id="BodyType" type="uint8" value="0"/> <!--keep-->
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/> <!--keep-->
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/> <!--keep-->
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/> <!--keep-->
+          <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
+          <attribute id="RootTemplate" type="guid" value="277dba84-1fe7-48c4-be5d-918641e7e6b0"/>
+					<attribute id="SubRaceUUID" type="guid" value="75fad8a7-3b4a-406f-9ca2-28d0284806c0"/> <!--UUID of subrace in Races/Races.lsx-->
+          <attribute id="UUID" type="guid" value="9ae6a92a-69e2-4e48-a2b4-f367efb4f150"/> <!--generate with multi-tool, not referenced anywhere-->
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
+         </node>
+        <!--Void Nekomimi-->
+        <!--fem-->
+        <node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/> <!--keep-->
+          <attribute id="BodyType" type="uint8" value="1"/> <!--keep-->
+          <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_Closeup_A"/> <!--keep-->
+          <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_Closeup_B"/> <!--keep-->
+          <attribute id="Overview" type="LSString" value="ELF_F_Camera_Overview_A"/> <!--keep-->
+          <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
+          <attribute id="RootTemplate" type="guid" value="a41d6852-b871-4bc5-b7d5-7a85521ab636"/>
+					<attribute id="SubRaceUUID" type="guid" value="3cdec442-60ba-4481-b723-06e64ab8075a"/> <!--UUID of subrace in Races/Races.lsx-->
+          <attribute id="UUID" type="guid" value="656ab720-e347-4382-84bc-1cfa160e214e"/> <!--generate with multi-tool, not referenced anywhere-->
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
+        </node>
+        <!--masc-->
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/> <!--keep-->
+          <attribute id="BodyType" type="uint8" value="0"/> <!--keep-->
+          <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_Closeup_A"/> <!--keep-->
+          <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_Closeup_B"/> <!--keep-->
+          <attribute id="Overview" type="LSString" value="ELF_M_Camera_Overview_A"/> <!--keep-->
+          <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
+          <attribute id="RootTemplate" type="guid" value="c49a56de-f8a9-42a1-ac1a-e3167f99d78b"/>
+					<attribute id="SubRaceUUID" type="guid" value="3cdec442-60ba-4481-b723-06e64ab8075a"/> <!--UUID of subrace in Races/Races.lsx-->
+          <attribute id="UUID" type="guid" value="f7d767ce-fbb7-4da4-97f6-b80d8ccacb91"/> <!--generate with multi-tool, not referenced anywhere-->
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
+        </node>
+        <!--fem strong-->
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/> <!--keep-->
+          <attribute id="BodyType" type="uint8" value="1"/> <!--keep-->
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/> <!--keep-->
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/> <!--keep-->
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/> <!--keep-->
+          <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
+          <attribute id="RootTemplate" type="guid" value="5794199c-a713-497b-a5ed-ce955e131479"/>
+					<attribute id="SubRaceUUID" type="guid" value="3cdec442-60ba-4481-b723-06e64ab8075a"/> <!--UUID of subrace in Races/Races.lsx-->
+          <attribute id="UUID" type="guid" value="a8aa1fbc-898c-4fe7-9392-1f18fe2e4c19"/> <!--generate with multi-tool, not referenced anywhere-->
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
+        </node>
+        <!--masc strong-->
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/> <!--keep-->
+          <attribute id="BodyType" type="uint8" value="0"/> <!--keep-->
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/> <!--keep-->
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/> <!--keep-->
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/> <!--keep-->
+          <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
+          <attribute id="RootTemplate" type="guid" value="277dba84-1fe7-48c4-be5d-918641e7e6b0"/>
+					<attribute id="SubRaceUUID" type="guid" value="3cdec442-60ba-4481-b723-06e64ab8075a"/> <!--UUID of subrace in Races/Races.lsx-->
+          <attribute id="UUID" type="guid" value="14a434de-a0f4-453c-a5e5-9a62f94f7b87"/> <!--generate with multi-tool, not referenced anywhere-->
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

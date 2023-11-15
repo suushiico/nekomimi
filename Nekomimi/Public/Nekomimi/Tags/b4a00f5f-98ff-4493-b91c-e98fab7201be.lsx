@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="58" />
+  <region id="Tags">
+    <node id="Tags">
+      <attribute id="Description" type="LSString" value="|Orange Nekomimi|" />
+      <attribute id="DisplayDescription" type="TranslatedString" handle="h37ec02fdgd7b7g4aafga21agacdf10caeaef" version="1" /> <!--generate handle with multi-tool, reference in Localization-->
+      <attribute id="DisplayName" type="TranslatedString" handle="h2dec9c97g1537g4b31g94cag151a94715fa5" version="1" />
+      <attribute id="Icon" type="FixedString" value="" />
+      <attribute id="Name" type="FixedString" value="OrangeNekomimi" />
+      <attribute id="UUID" type="guid" value="b4a00f5f-98ff-4493-b91c-e98fab7201be" /> <!--same as file name-->
+      <children>
+        <node id="Categories">
+          <children>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Code" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Dialog" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Race" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="PlayerRace" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="CharacterSheet" />
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="193161d2-6683-406e-aac3-1a617961ac68" /> <!--ID in Content/[PAK]_CharacterVisuals/_merged.lsx-->
+					<attribute id="EquipmentRace" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" /> <!--keep-->
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Elf_Female" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="763f7f7d-0e5b-de5a-309c-8f024c714ed6-_(Icon_Elf_Female)" /> <!--keep-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="7535aa33-4532-47c2-ad9f-2a0c5f27a7c4" /> <!--generated, referenced in Female Player-->
+					<attribute id="Name" type="LSString" value="BASE_Elves_Female_Nekomimi" /> <!--change name-->
+					<attribute id="ParentTemplateId" type="FixedString" value="0bbd332f-747c-406c-b397-d2f607a49900" /> <!--keep-->
+					<attribute id="ReadinessFlags" type="uint32" value="8" /> <!--keep-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="VisualTemplate" type="FixedString" value="c05cb1dc-81eb-647b-3e03-e9bf4301fcc4" /> <!--matches BaseVisual in Content/[PAK]_CharacterVisuals/_merged.lsx-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209012" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+      		</children>
+    	</node>
+ 	</region>
+</save>
