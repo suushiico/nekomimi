@@ -228,13 +228,6 @@
 									<attribute id="Color" type="bool" value="False" />
 									<attribute id="Custom" type="bool" value="True" />
 									<attribute id="Enabled" type="bool" value="False" />
-									<attribute id="Parameter" type="FixedString" value="Scalp_HornMaskWeight" />
-									<attribute id="Value" type="float" value="0" />
-								</node>
-								<node id="ScalarParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="False" />
 									<attribute id="Parameter" type="FixedString" value="Scalp_Graying_Intensity" />
 									<attribute id="Value" type="float" value="0" />
 								</node>
@@ -584,13 +577,6 @@
 									<attribute id="Enabled" type="bool" value="False" />
 									<attribute id="Parameter" type="FixedString" value="Scalp_IDContrast" />
 									<attribute id="Value" type="float" value="1" />
-								</node>
-								<node id="ScalarParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="False" />
-									<attribute id="Parameter" type="FixedString" value="Scalp_HornMaskWeight" />
-									<attribute id="Value" type="float" value="0" />
 								</node>
 								<node id="ScalarParameters">
 									<attribute id="Color" type="bool" value="False" />
