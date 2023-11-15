@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<!--BASE-->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="6139229c-a5ce-4ce7-83df-460e66eeb60e" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="BASE_Nekomimi_Female" /> <!--change-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="ParentTemplateId" type="FixedString" value="f08563b3-748d-4783-837b-b8620bc60b22" /> <!--MapKey of Elves_Female_High_Player-->
+					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" /> <!--Icon of Elves_Female_High_Player-->
+					<attribute id="EquipmentRace" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" /> <!--EquipmentRace of BASE_Elves_Female-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="193161d2-6683-406e-aac3-1a617961ac68" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="Race" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266" /> <!--UUID of Race-->
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="4cd904a4-536f-45ee-9c2c-043253063cc4" /> <!--UUID of Nekomimi tag-->
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="c0256636-2a6b-46ad-89dd-81f203a005ae" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="BASE_Nekomimi_Male" /> <!--change-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="ParentTemplateId" type="FixedString" value="bfb31ea0-c6b3-4677-8c6e-662e089c18fb" /> <!--MapKey of Elves_Male_High_Player-->
+					<attribute id="Icon" type="FixedString" value="015bd884-82d1-cc15-2a0f-0cb8524028f4-_(Icon_Elf_Male)" /> <!--Icon of Elves_Male_High_Player-->
+					<attribute id="EquipmentRace" type="guid" value="7dd0aa66-5177-4f65-b7d7-187c02531b0b" /> <!--EquipmentRace of BASE_Elves_Male-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="5ec8fb9f-560f-4ca4-a0a4-26e16fae0023" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="Race" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266" /> <!--UUID of Race-->
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="4cd904a4-536f-45ee-9c2c-043253063cc4" /> <!--UUID of Nekomimi tag-->
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!--Main race-->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="505db3c9-335c-486b-8a9b-8ef4111d824b" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Female_Player" /> <!--change-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="ParentTemplateId" type="FixedString" value="6139229c-a5ce-4ce7-83df-460e66eeb60e" /> <!--Mapkey of BASE Female-->
+					<attribute id="Flag" type="int32" value="0" /> <!--keep-->
+					<attribute id="Stats" type="FixedString" value="HeroElfFemale" /> <!--keep-->
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!--keep-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="c9e2e003-1400-4d61-99cb-a2a129226890" /> <!--ID from [PAK]_CharacterVisuals-->
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> <!--keep-->
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" /> <!--keep-->
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="5e928266-22d6-43c2-b9c1-f3b3d2ed25fc" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Female_Player_Strong" /> <!--change-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="ParentTemplateId" type="FixedString" value="505db3c9-335c-486b-8a9b-8ef4111d824b" /> <!--Mapkey of Female Player-->
+					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" /> <!--keep-->
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> <!--keep-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="caba37d6-5d03-4608-975b-cf9ef4a31c42" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" /> <!--keep-->
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> <!--keep-->
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="9b594416-0c27-48fd-b950-b81b1d9ba9a2" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Male_Player" /> <!--change-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="ParentTemplateId" type="FixedString" value="c0256636-2a6b-46ad-89dd-81f203a005ae" /> <!--MapKey of BASE Male-->
+					<attribute id="Flag" type="int32" value="0" /> <!--keep-->
+					<attribute id="Stats" type="FixedString" value="HeroHumanMale" /> <!--keep-->
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!--keep-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="9a5f1747-f6f1-4a0b-86e9-0c1a7445fbe8" /> <!--ID from [PAK]_CharacterVisuals-->
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="9f8d5a7b-5927-4061-ac0a-a9da9c11346d" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Male_Player_Strong" /> <!--change-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="ParentTemplateId" type="FixedString" value="9b594416-0c27-48fd-b950-b81b1d9ba9a2" /> <!--MapKey of Male Player-->
+					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" /> <!--keep-->
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" /> <!--keep-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="7efdcdb0-1c4a-41b6-9f6d-ee7b1401ce78" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" /> <!--keep-->
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> <!--keep-->
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!--Calico-->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="46643924-715f-41bb-b940-67a0b3e16427" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Female_Player_CalicoNekomimi" /> <!--change-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="ParentTemplateId" type="FixedString" value="505db3c9-335c-486b-8a9b-8ef4111d824b" /> <!--MapKey of Female Player-->
+					<attribute id="Flag" type="int32" value="0" /> <!--keep-->
+					<attribute id="Stats" type="FixedString" value="HeroElfFemale" /> <!--keep-->
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!--keep-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="c9e2e003-1400-4d61-99cb-a2a129226890" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="Race" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb" /> <!--UUID of Subrace-->
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="13e7dfd3-2556-43b8-985a-31cadc6b0afc" /> <!--UUID of Subrace tag-->
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="96ffdc3f-523f-436a-9d06-b48ad48c17c0" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Female_Player_Strong_CalicoNekomimi" /> <!--change-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="ParentTemplateId" type="FixedString" value="5e928266-22d6-43c2-b9c1-f3b3d2ed25fc" /> <!--Mapkey of Female Player Strong-->
+					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" /> <!--keep-->
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> <!--keep-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="caba37d6-5d03-4608-975b-cf9ef4a31c42" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" /> <!--keep-->
+					<attribute id="Race" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb" /> <!--UUID of Subrace-->
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="13e7dfd3-2556-43b8-985a-31cadc6b0afc" /> <!--UUID of Subrace tag-->
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="533635a0-66c8-4270-b7c6-073d3a54cfc5" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Male_Player_CalicoNekomimi" /> <!--change-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="ParentTemplateId" type="FixedString" value="9b594416-0c27-48fd-b950-b81b1d9ba9a2" /> <!--MapKey of Male Player-->
+					<attribute id="Flag" type="int32" value="0" /> <!--keep-->
+					<attribute id="Stats" type="FixedString" value="HeroHumanMale" /> <!--keep-->
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!--keep-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="9a5f1747-f6f1-4a0b-86e9-0c1a7445fbe8" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="Race" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb" /> <!--UUID of Subrace-->
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="13e7dfd3-2556-43b8-985a-31cadc6b0afc" /> <!--UUID of Subrace tag-->
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="59afd0a0-e230-4425-9eca-db64fbe52c38" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Male_Player_Strong_CalicoNekomimi" /> <!--change-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="ParentTemplateId" type="FixedString" value="9f8d5a7b-5927-4061-ac0a-a9da9c11346d" /> <!--MapKey of Male Player Strong-->
+					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" /> <!--keep-->
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" /> <!--keep-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="7efdcdb0-1c4a-41b6-9f6d-ee7b1401ce78" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" /> <!--keep-->
+					<attribute id="Race" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb" /> <!--UUID of Subrace-->
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="13e7dfd3-2556-43b8-985a-31cadc6b0afc" /> <!--UUID of Subrace tag-->
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

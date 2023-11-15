@@ -7,7 +7,7 @@
       <attribute id="DisplayDescription" type="TranslatedString" handle="he1624c73g7d8cg4ab5g9f9dg0176e94c5db1" version="1" /> <!--generate handle with multi-tool, reference in Localization-->
       <attribute id="DisplayName" type="TranslatedString" handle="h32fb9981g4150g4b8eg8196gc56a15dd256a" version="1" />
       <attribute id="Icon" type="FixedString" value="" />
-      <attribute id="Name" type="FixedString" value="CalicoNekomimi" />
+      <attribute id="Name" type="FixedString" value="Nekomimi" />
       <attribute id="UUID" type="guid" value="4cd904a4-536f-45ee-9c2c-043253063cc4" /> <!--same as file name-->
       <children>
         <node id="Categories">

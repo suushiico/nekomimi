@@ -396,7 +396,7 @@
 					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
 					<attribute id="BodySetVisual" type="FixedString" value="edb26736-c3d5-72a7-b69a-16b5720ba664" />
 					<attribute id="ID" type="FixedString" value="caba37d6-5d03-4608-975b-cf9ef4a31c42" /> <!--generate with multi-tool, referenced in RootTemplates-->
-					<attribute id="Name" type="LSString" value="HalfElves_Female_Nekomimi_Player_Strong" /> <!--change name-->
+					<attribute id="Name" type="LSString" value="Elves_Female_Nekomimi_Player_Strong" /> <!--change name-->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
