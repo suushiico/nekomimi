@@ -13,7 +13,7 @@
           <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_Closeup_B"/> <!--keep-->
           <attribute id="Overview" type="LSString" value="ELF_F_Camera_Overview_A"/> <!--keep-->
           <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
-          <attribute id="RootTemplate" type="guid" value="46643924-715f-41bb-b940-67a0b3e16427"/>
+          <attribute id="RootTemplate" type="guid" value="46643924-715f-41bb-b940-67a0b3e16427"/> <!--MapKey of corresponding Root Template-->
 					<attribute id="SubRaceUUID" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb"/> <!--UUID of subrace in Races/Races.lsx-->
           <attribute id="UUID" type="guid" value="01460490-476e-459c-9e56-f281a11162cd"/> <!--generate with multi-tool, not referenced anywhere-->
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
@@ -26,7 +26,7 @@
           <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_Closeup_B"/> <!--keep-->
           <attribute id="Overview" type="LSString" value="ELF_M_Camera_Overview_A"/> <!--keep-->
           <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
-          <attribute id="RootTemplate" type="guid" value="533635a0-66c8-4270-b7c6-073d3a54cfc5"/>
+          <attribute id="RootTemplate" type="guid" value="533635a0-66c8-4270-b7c6-073d3a54cfc5"/> <!--MapKey of corresponding Root Template-->
 					<attribute id="SubRaceUUID" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb"/> <!--UUID of subrace in Races/Races.lsx-->
           <attribute id="UUID" type="guid" value="0abb91f8-9b29-4805-b709-c15fc03edb6b"/> <!--generate with multi-tool, not referenced anywhere-->
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
@@ -39,7 +39,7 @@
           <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/> <!--keep-->
           <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/> <!--keep-->
           <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
-          <attribute id="RootTemplate" type="guid" value="96ffdc3f-523f-436a-9d06-b48ad48c17c0"/>
+          <attribute id="RootTemplate" type="guid" value="96ffdc3f-523f-436a-9d06-b48ad48c17c0"/> <!--MapKey of corresponding Root Template-->
 					<attribute id="SubRaceUUID" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb"/> <!--UUID of subrace in Races/Races.lsx-->
           <attribute id="UUID" type="guid" value="b4c3120a-2ccf-4af0-aa7a-c1cb17880da6"/> <!--generate with multi-tool, not referenced anywhere-->
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
@@ -52,7 +52,7 @@
           <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/> <!--keep-->
           <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/> <!--keep-->
           <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
-          <attribute id="RootTemplate" type="guid" value="59afd0a0-e230-4425-9eca-db64fbe52c38"/>
+          <attribute id="RootTemplate" type="guid" value="59afd0a0-e230-4425-9eca-db64fbe52c38"/> <!--MapKey of corresponding Root Template-->
 					<attribute id="SubRaceUUID" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb"/> <!--UUID of subrace in Races/Races.lsx-->
           <attribute id="UUID" type="guid" value="5aff586d-55f7-4fb4-af55-88d2c1fb91c8"/> <!--generate with multi-tool, not referenced anywhere-->
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
@@ -66,7 +66,7 @@
           <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_Closeup_B"/> <!--keep-->
           <attribute id="Overview" type="LSString" value="ELF_F_Camera_Overview_A"/> <!--keep-->
           <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
-          <attribute id="RootTemplate" type="guid" value="a41d6852-b871-4bc5-b7d5-7a85521ab636"/>
+          <attribute id="RootTemplate" type="guid" value="381c9c81-c49e-4cfc-a154-35c4b419b80e"/> <!--MapKey of corresponding Root Template-->
 					<attribute id="SubRaceUUID" type="guid" value="75fad8a7-3b4a-406f-9ca2-28d0284806c0"/> <!--UUID of subrace in Races/Races.lsx-->
           <attribute id="UUID" type="guid" value="77a5d86a-5358-473f-bf0c-d24448135b22"/> <!--generate with multi-tool, not referenced anywhere-->
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
@@ -79,7 +79,7 @@
           <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_Closeup_B"/> <!--keep-->
           <attribute id="Overview" type="LSString" value="ELF_M_Camera_Overview_A"/> <!--keep-->
           <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
-          <attribute id="RootTemplate" type="guid" value="c49a56de-f8a9-42a1-ac1a-e3167f99d78b"/>
+          <attribute id="RootTemplate" type="guid" value="9ad4775d-e2a5-4c72-8fc2-7cda44e7e82a"/> <!--MapKey of corresponding Root Template-->
 					<attribute id="SubRaceUUID" type="guid" value="75fad8a7-3b4a-406f-9ca2-28d0284806c0"/> <!--UUID of subrace in Races/Races.lsx-->
           <attribute id="UUID" type="guid" value="b737cf20-cc2b-4fd5-b79b-898498df1e61"/> <!--generate with multi-tool, not referenced anywhere-->
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
@@ -92,7 +92,7 @@
           <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/> <!--keep-->
           <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/> <!--keep-->
           <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
-          <attribute id="RootTemplate" type="guid" value="5794199c-a713-497b-a5ed-ce955e131479"/>
+          <attribute id="RootTemplate" type="guid" value="3e89737c-474f-4296-81b2-8154c9466cd0"/> <!--MapKey of corresponding Root Template-->
 					<attribute id="SubRaceUUID" type="guid" value="75fad8a7-3b4a-406f-9ca2-28d0284806c0"/> <!--UUID of subrace in Races/Races.lsx-->
           <attribute id="UUID" type="guid" value="ac950222-4d46-4d43-81c4-e6092f64ec1f"/> <!--generate with multi-tool, not referenced anywhere-->
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
@@ -105,7 +105,7 @@
           <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/> <!--keep-->
           <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/> <!--keep-->
           <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
-          <attribute id="RootTemplate" type="guid" value="277dba84-1fe7-48c4-be5d-918641e7e6b0"/>
+          <attribute id="RootTemplate" type="guid" value="89a55594-3490-4812-9fe0-1b7f882381fa"/> <!--MapKey of corresponding Root Template-->
 					<attribute id="SubRaceUUID" type="guid" value="75fad8a7-3b4a-406f-9ca2-28d0284806c0"/> <!--UUID of subrace in Races/Races.lsx-->
           <attribute id="UUID" type="guid" value="9ae6a92a-69e2-4e48-a2b4-f367efb4f150"/> <!--generate with multi-tool, not referenced anywhere-->
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
@@ -119,7 +119,7 @@
           <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_Closeup_B"/> <!--keep-->
           <attribute id="Overview" type="LSString" value="ELF_F_Camera_Overview_A"/> <!--keep-->
           <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
-          <attribute id="RootTemplate" type="guid" value="a41d6852-b871-4bc5-b7d5-7a85521ab636"/>
+          <attribute id="RootTemplate" type="guid" value="1a715e85-d096-4a73-a413-e8a3ec244bc0"/> <!--MapKey of corresponding Root Template-->
 					<attribute id="SubRaceUUID" type="guid" value="3cdec442-60ba-4481-b723-06e64ab8075a"/> <!--UUID of subrace in Races/Races.lsx-->
           <attribute id="UUID" type="guid" value="656ab720-e347-4382-84bc-1cfa160e214e"/> <!--generate with multi-tool, not referenced anywhere-->
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
@@ -132,7 +132,7 @@
           <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_Closeup_B"/> <!--keep-->
           <attribute id="Overview" type="LSString" value="ELF_M_Camera_Overview_A"/> <!--keep-->
           <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
-          <attribute id="RootTemplate" type="guid" value="c49a56de-f8a9-42a1-ac1a-e3167f99d78b"/>
+          <attribute id="RootTemplate" type="guid" value="8866a54b-fb17-4874-98c4-da9400acc1cc"/> <!--MapKey of corresponding Root Template-->
 					<attribute id="SubRaceUUID" type="guid" value="3cdec442-60ba-4481-b723-06e64ab8075a"/> <!--UUID of subrace in Races/Races.lsx-->
           <attribute id="UUID" type="guid" value="f7d767ce-fbb7-4da4-97f6-b80d8ccacb91"/> <!--generate with multi-tool, not referenced anywhere-->
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
@@ -145,7 +145,7 @@
           <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/> <!--keep-->
           <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/> <!--keep-->
           <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
-          <attribute id="RootTemplate" type="guid" value="5794199c-a713-497b-a5ed-ce955e131479"/>
+          <attribute id="RootTemplate" type="guid" value="49093197-497c-429d-9d7d-c5a9435fa7b3"/> <!--MapKey of corresponding Root Template-->
 					<attribute id="SubRaceUUID" type="guid" value="3cdec442-60ba-4481-b723-06e64ab8075a"/> <!--UUID of subrace in Races/Races.lsx-->
           <attribute id="UUID" type="guid" value="a8aa1fbc-898c-4fe7-9392-1f18fe2e4c19"/> <!--generate with multi-tool, not referenced anywhere-->
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->
@@ -158,7 +158,7 @@
           <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/> <!--keep-->
           <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/> <!--keep-->
           <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--UUID of Race in Races/Races.lsx-->
-          <attribute id="RootTemplate" type="guid" value="277dba84-1fe7-48c4-be5d-918641e7e6b0"/>
+          <attribute id="RootTemplate" type="guid" value="9f295be4-5359-4a77-a81b-51963c3e26a4"/> <!--MapKey of corresponding Root Template-->
 					<attribute id="SubRaceUUID" type="guid" value="3cdec442-60ba-4481-b723-06e64ab8075a"/> <!--UUID of subrace in Races/Races.lsx-->
           <attribute id="UUID" type="guid" value="14a434de-a0f4-453c-a5e5-9a62f94f7b87"/> <!--generate with multi-tool, not referenced anywhere-->
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--keep-->

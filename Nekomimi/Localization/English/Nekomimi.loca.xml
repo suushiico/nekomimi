@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
     <!--contentuid corresponds to the UUID of whatever section you want to write text for-->
-	<content contentuid="HANDLE" version="1">TEXT</content> 
+	<!-- <content contentuid="HANDLE" version="1">TEXT</content>  -->
     
     <!--Nekomimi-->
     <!--Name-->
