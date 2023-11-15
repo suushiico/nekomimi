@@ -1,0 +1,3 @@
+new entry "Nekomimi_Passives"
+type "PassiveData"
+data "Boosts" "ActionResource(Movement,9,0)"

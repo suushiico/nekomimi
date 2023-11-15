@@ -6,11 +6,11 @@
             <children>
                 <!--Nekomimi-->
                 <node id="Progression">
-                  <attribute id="AllowImprovement" type="bool" value="false"/>
-				  <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)"/> <!--add any boosts. must at least specify movement speed for base race-->
+                   <attribute id="AllowImprovement" type="bool" value="false"/>
+				   <attribute id="Boosts" type="LSString" value=""/> <!--add any boosts. must at least specify movement speed for base race-->
                    <attribute id="Level" type="uint8" value="1"/>
                    <attribute id="Name" type="LSString" value="Nekomimi"/> <!--Race/Subrace name-->
-                   <attribute id="PassivesAdded" type="LSString" value="SuperiorDarkvision;ExtraAttack;SecondStoryWork"/> <!--add any passives-->
+                   <attribute id="PassivesAdded" type="LSString" value="Nekomimi_Passives;SuperiorDarkvision;ExtraAttack;SecondStoryWork"/> <!--add any passives-->
                    <attribute id="PassivesRemoved" type="LSString" value=""/>
                    <attribute id="ProgressionType" type="uint8" value="2"/>
                    <attribute id="Selectors" type="LSString" value=""/>
