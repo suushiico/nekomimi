@@ -22,29 +22,6 @@
 									<attribute id="MaterialPresetResource" type="FixedString" value="" />
 								</node>
 								<node id="MaterialPresets" />
-								<!--Unique tav-->
-								<node id="ScalarParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooIndex" />
-									<attribute id="Value" type="float" value="0" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooColor" />
-									<attribute id="Value" type="fvec3" value="0 0 0" />
-								</node>
-								<node id="VectorParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooIntensity" />
-									<attribute id="Value" type="fvec4" value="1 0 0 0" />
-								</node>
-								<!--End unique tav-->
 							</children>
 						</node>
 						<node id="Slots">
@@ -93,29 +70,6 @@
 									<attribute id="MaterialPresetResource" type="FixedString" value="" />
 								</node>
 								<node id="MaterialPresets" />
-								<!--Unique tav-->
-								<node id="ScalarParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooIndex" />
-									<attribute id="Value" type="float" value="0" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooColor" />
-									<attribute id="Value" type="fvec3" value="0 0 0" />
-								</node>
-								<node id="VectorParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooIntensity" />
-									<attribute id="Value" type="fvec4" value="1 0 0 0" />
-								</node>
-								<!--End Unique tav-->
 							</children>
 						</node>
 						<node id="Slots">
@@ -186,29 +140,6 @@
 										</node>
 									</children>
 								</node>
-								<!--Unique tav-->
-								<node id="ScalarParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooIndex" />
-									<attribute id="Value" type="float" value="0" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooColor" />
-									<attribute id="Value" type="fvec3" value="0 0 0" />
-								</node>
-								<node id="VectorParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooIntensity" />
-									<attribute id="Value" type="fvec4" value="1 0 0 0" />
-								</node>
-								<!--End Unique tav-->
 								<node id="ScalarParameters">
 									<attribute id="Color" type="bool" value="False" />
 									<attribute id="Custom" type="bool" value="True" />
@@ -500,29 +431,6 @@
 										</node>
 									</children>
 								</node>
-								<!--Unique tav-->
-								<node id="ScalarParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooIndex" />
-									<attribute id="Value" type="float" value="0" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooColor" />
-									<attribute id="Value" type="fvec3" value="0 0 0" />
-								</node>
-								<node id="VectorParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooIntensity" />
-									<attribute id="Value" type="fvec4" value="1 0 0 0" />
-								</node>
-								<!--End Unique tav-->
 								<node id="ScalarParameters">
 									<attribute id="Color" type="bool" value="False" />
 									<attribute id="Custom" type="bool" value="True" />
@@ -817,29 +725,6 @@
 										</node>
 									</children>
 								</node>
-								<!--Unique tav-->
-								<node id="ScalarParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooIndex" />
-									<attribute id="Value" type="float" value="0" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooColor" />
-									<attribute id="Value" type="fvec3" value="0 0 0" />
-								</node>
-								<node id="VectorParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooIntensity" />
-									<attribute id="Value" type="fvec4" value="1 0 0 0" />
-								</node>
-								<!--End Unique tav-->
 								<node id="ScalarParameters">
 									<attribute id="Color" type="bool" value="False" />
 									<attribute id="Custom" type="bool" value="True" />
@@ -1150,29 +1035,6 @@
 										</node>
 									</children>
 								</node>
-								<!--Unique tav-->
-								<node id="ScalarParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooIndex" />
-									<attribute id="Value" type="float" value="0" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooColor" />
-									<attribute id="Value" type="fvec3" value="0 0 0" />
-								</node>
-								<node id="VectorParameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="BodyTattooIntensity" />
-									<attribute id="Value" type="fvec4" value="1 0 0 0" />
-								</node>
-								<!--End Unique tav-->
 								<node id="ScalarParameters">
 									<attribute id="Color" type="bool" value="False" />
 									<attribute id="Custom" type="bool" value="True" />
