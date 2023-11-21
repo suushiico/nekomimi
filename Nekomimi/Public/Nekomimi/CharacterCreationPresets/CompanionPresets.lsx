@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Daisy/Guardian-->
+<!--Big shoutout to Kaz https://github.com/FollowersOfZerthimon/FollowersOfZerthimon-->
+<save>
+    <version major="4" minor="0" revision="9" build="308"/>
+    <region id="CompanionPresets">
+        <node id="root">
+            <children>
+                <!--Calico-->
+                <!--Female Daisy-->
+				<node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/> <!--keep-->
+                    <attribute id="BodyType" type="uint8" value="1"/> <!--keep-->
+                    <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_CompanionCloseup_A"/> <!--keep-->
+                    <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_CompanionCloseup_B"/> <!--keep-->
+                    <attribute id="Overview" type="LSString" value="ELF_F_Camera_CompanionOverview_A"/> <!--keep-->
+                    <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--change-->
+                    <attribute id="RootTemplate" type="guid" value="85ea2a2f-93df-4baa-846d-022f787f46f9"/> <!--MapKey of corresponding Root Template-->
+                    <attribute id="SubRaceUUID" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb"/> <!--change-->
+                    <attribute id="UUID" type="guid" value="920bac31-ba7d-49d9-b826-a0f9ccf93ed5"/> <!--generate with multi-tool-->
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> <!--keep-->
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> <!--keep-->
+                </node>
+			    <!--Female Daisy Strong-->
+				<node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="1"/> <!--keep-->
+                    <attribute id="BodyType" type="uint8" value="1"/> <!--keep-->
+                    <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_CompanionCloseup_A"/> <!--keep-->
+                    <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_CompanionCloseup_B"/> <!--keep-->
+                    <attribute id="Overview" type="LSString" value="HUM_FB_Camera_CompanionOverview_A"/> <!--keep-->
+                    <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--change-->
+                    <attribute id="RootTemplate" type="guid" value="5ebc363e-ab33-4da1-ac11-9ee82bb83567"/> <!--MapKey of corresponding Root Template-->
+                    <attribute id="SubRaceUUID" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb"/> <!--change-->
+                    <attribute id="UUID" type="guid" value="3ed9127f-c11a-4e7e-814a-ae5b08e27663"/> <!--generate with multi-tool-->
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> <!--keep-->
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> <!--keep-->
+                </node>
+			    <!--Male Daisy-->
+			    <node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/> <!--keep-->
+                    <attribute id="BodyType" type="uint8" value="0"/> <!--keep-->
+                    <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_CompanionCloseup_A"/> <!--keep-->
+                    <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_CompanionCloseup_B"/> <!--keep-->
+                    <attribute id="Overview" type="LSString" value="ELF_M_Camera_CompanionOverview_A"/> <!--keep-->
+                    <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--change-->
+                    <attribute id="RootTemplate" type="guid" value="0b0b0c6f-e020-4a53-abd6-52cf25835c42"/> <!--MapKey of corresponding Root Template-->
+                    <attribute id="SubRaceUUID" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb"/> <!--change-->
+                    <attribute id="UUID" type="guid" value="a77e2200-f7b9-4c8b-b53d-66d4fb96d823"/> <!--generate with multi-tool-->
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> <!--keep-->
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> <!--keep-->
+                </node>
+			    <!--Male Daisy Strong-->
+				<node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="1"/> <!--keep-->
+                    <attribute id="BodyType" type="uint8" value="0"/> <!--keep-->
+                    <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_CompanionCloseup_A"/> <!--keep-->
+                    <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_CompanionCloseup_B"/> <!--keep-->
+                    <attribute id="Overview" type="LSString" value="HUM_MB_Camera_CompanionOverview_A"/> <!--keep-->
+                    <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--change-->
+                    <attribute id="RootTemplate" type="guid" value="ebca55b6-5e4b-4b3d-8cdb-d40d9efe3471"/> <!--MapKey of corresponding Root Template-->
+                    <attribute id="SubRaceUUID" type="guid" value="d93d7299-fd28-4648-8e7f-ffe5de1841bb"/> <!--change-->
+                    <attribute id="UUID" type="guid" value="df467fd5-e705-4539-9461-d5c35cb4841f"/> <!--generate with multi-tool-->
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> <!--keep-->
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> <!--keep-->
+                </node>
+                <!--Orange-->
+                <!--Female Daisy-->
+				<node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/> <!--keep-->
+                    <attribute id="BodyType" type="uint8" value="1"/> <!--keep-->
+                    <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_CompanionCloseup_A"/> <!--keep-->
+                    <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_CompanionCloseup_B"/> <!--keep-->
+                    <attribute id="Overview" type="LSString" value="ELF_F_Camera_CompanionOverview_A"/> <!--keep-->
+                    <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--change-->
+                    <attribute id="RootTemplate" type="guid" value="15047406-2517-46bd-bdf9-0386a4fb6306"/> <!--MapKey of corresponding Root Template-->
+                    <attribute id="SubRaceUUID" type="guid" value="75fad8a7-3b4a-406f-9ca2-28d0284806c0"/> <!--change-->
+                    <attribute id="UUID" type="guid" value="b11540df-c901-4180-b9a0-99f10ca192a8"/> <!--generate with multi-tool-->
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> <!--keep-->
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> <!--keep-->
+                </node>
+			    <!--Female Daisy Strong-->
+				<node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="1"/> <!--keep-->
+                    <attribute id="BodyType" type="uint8" value="1"/> <!--keep-->
+                    <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_CompanionCloseup_A"/> <!--keep-->
+                    <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_CompanionCloseup_B"/> <!--keep-->
+                    <attribute id="Overview" type="LSString" value="HUM_FB_Camera_CompanionOverview_A"/> <!--keep-->
+                    <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--change-->
+                    <attribute id="RootTemplate" type="guid" value="f4b14a23-b4fd-4d27-af81-aaaf1c1d866e"/> <!--MapKey of corresponding Root Template-->
+                    <attribute id="SubRaceUUID" type="guid" value="75fad8a7-3b4a-406f-9ca2-28d0284806c0"/> <!--change-->
+                    <attribute id="UUID" type="guid" value="5d8c319c-0257-495d-8629-2c6b5fcbd7a9"/> <!--generate with multi-tool-->
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> <!--keep-->
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> <!--keep-->
+                </node>
+			    <!--Male Daisy-->
+			    <node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/> <!--keep-->
+                    <attribute id="BodyType" type="uint8" value="0"/> <!--keep-->
+                    <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_CompanionCloseup_A"/> <!--keep-->
+                    <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_CompanionCloseup_B"/> <!--keep-->
+                    <attribute id="Overview" type="LSString" value="ELF_M_Camera_CompanionOverview_A"/> <!--keep-->
+                    <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--change-->
+                    <attribute id="RootTemplate" type="guid" value="6ae4b6e3-cba4-4abf-b26b-c583c654a64a"/> <!--MapKey of corresponding Root Template-->
+                    <attribute id="SubRaceUUID" type="guid" value="75fad8a7-3b4a-406f-9ca2-28d0284806c0"/> <!--change-->
+                    <attribute id="UUID" type="guid" value="2aa04eb7-21f4-4ef9-9db1-5520e44b6d4c"/> <!--generate with multi-tool-->
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> <!--keep-->
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> <!--keep-->
+                </node>
+			    <!--Male Daisy Strong-->
+				<node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="1"/> <!--keep-->
+                    <attribute id="BodyType" type="uint8" value="0"/> <!--keep-->
+                    <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_CompanionCloseup_A"/> <!--keep-->
+                    <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_CompanionCloseup_B"/> <!--keep-->
+                    <attribute id="Overview" type="LSString" value="HUM_MB_Camera_CompanionOverview_A"/> <!--keep-->
+                    <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--change-->
+                    <attribute id="RootTemplate" type="guid" value="11f87464-1c50-440f-a864-1aa577640e17"/> <!--MapKey of corresponding Root Template-->
+                    <attribute id="SubRaceUUID" type="guid" value="75fad8a7-3b4a-406f-9ca2-28d0284806c0"/> <!--change-->
+                    <attribute id="UUID" type="guid" value="f639beff-6522-4462-abb5-949e1eed5930"/> <!--generate with multi-tool-->
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> <!--keep-->
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> <!--keep-->
+                </node>
+                <!--Void-->
+                <!--Female Daisy-->
+				<node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/> <!--keep-->
+                    <attribute id="BodyType" type="uint8" value="1"/> <!--keep-->
+                    <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_CompanionCloseup_A"/> <!--keep-->
+                    <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_CompanionCloseup_B"/> <!--keep-->
+                    <attribute id="Overview" type="LSString" value="ELF_F_Camera_CompanionOverview_A"/> <!--keep-->
+                    <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--change-->
+                    <attribute id="RootTemplate" type="guid" value="8532aa19-ba44-4110-8366-679b7f9bbbac"/> <!--MapKey of corresponding Root Template-->
+                    <attribute id="SubRaceUUID" type="guid" value="3cdec442-60ba-4481-b723-06e64ab8075a"/> <!--change-->
+                    <attribute id="UUID" type="guid" value="21fbc428-eea2-4f25-a250-d5f86e3f1b8a"/> <!--generate with multi-tool-->
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> <!--keep-->
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> <!--keep-->
+                </node>
+			    <!--Female Daisy Strong-->
+				<node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="1"/> <!--keep-->
+                    <attribute id="BodyType" type="uint8" value="1"/> <!--keep-->
+                    <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_CompanionCloseup_A"/> <!--keep-->
+                    <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_CompanionCloseup_B"/> <!--keep-->
+                    <attribute id="Overview" type="LSString" value="HUM_FB_Camera_CompanionOverview_A"/> <!--keep-->
+                    <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--change-->
+                    <attribute id="RootTemplate" type="guid" value="fb2ee14b-8c3e-4310-85af-55e104f30a2c"/> <!--MapKey of corresponding Root Template-->
+                    <attribute id="SubRaceUUID" type="guid" value="3cdec442-60ba-4481-b723-06e64ab8075a"/> <!--change-->
+                    <attribute id="UUID" type="guid" value="3b95feb1-e114-4ea5-ad00-79260e56834b"/> <!--generate with multi-tool-->
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> <!--keep-->
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> <!--keep-->
+                </node>
+			    <!--Male Daisy-->
+			    <node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/> <!--keep-->
+                    <attribute id="BodyType" type="uint8" value="0"/> <!--keep-->
+                    <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_CompanionCloseup_A"/> <!--keep-->
+                    <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_CompanionCloseup_B"/> <!--keep-->
+                    <attribute id="Overview" type="LSString" value="ELF_M_Camera_CompanionOverview_A"/> <!--keep-->
+                    <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--change-->
+                    <attribute id="RootTemplate" type="guid" value="5296edd1-7e33-4e0f-968b-9503d45e8b05"/> <!--MapKey of corresponding Root Template-->
+                    <attribute id="SubRaceUUID" type="guid" value="3cdec442-60ba-4481-b723-06e64ab8075a"/> <!--change-->
+                    <attribute id="UUID" type="guid" value="743ec3b0-09dc-49c6-bf76-d9f88fa698f3"/> <!--generate with multi-tool-->
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> <!--keep-->
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> <!--keep-->
+                </node>
+			    <!--Male Daisy Strong-->
+				<node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="1"/> <!--keep-->
+                    <attribute id="BodyType" type="uint8" value="0"/> <!--keep-->
+                    <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_CompanionCloseup_A"/> <!--keep-->
+                    <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_CompanionCloseup_B"/> <!--keep-->
+                    <attribute id="Overview" type="LSString" value="HUM_MB_Camera_CompanionOverview_A"/> <!--keep-->
+                    <attribute id="RaceUUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--change-->
+                    <attribute id="RootTemplate" type="guid" value="cbfd4879-a019-48ff-8766-92b2d1128183"/> <!--MapKey of corresponding Root Template-->
+                    <attribute id="SubRaceUUID" type="guid" value="3cdec442-60ba-4481-b723-06e64ab8075a"/> <!--change-->
+                    <attribute id="UUID" type="guid" value="7ff9ceb8-8843-43dc-b165-f447149954fa"/> <!--generate with multi-tool-->
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> <!--keep-->
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> <!--keep-->
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

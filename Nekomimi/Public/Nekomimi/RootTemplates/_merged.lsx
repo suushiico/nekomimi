@@ -397,6 +397,317 @@
 						</node>
 					</children>
 				</node>
+				<!--Daisy/Guardian-->
+				<!--Big shoutout to Kaz https://github.com/FollowersOfZerthimon/FollowersOfZerthimon-->
+				<!--Calico-->
+				<!--Female-->
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="bbf6ee33-3328-946a-9b9f-872f0624e15d" /> <!--From Elves_Female_High_Daisy-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="77a843b9-7ad5-4291-b5d4-5335211b7e9a" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="DisplayName" type="TranslatedString" handle="hb95f4779g03c3g44cfg99b7g9ccbfa2468d1" version="1" /> <!--"Calico Nekomimi" from Localization-->
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" /> <!--keep-->
+					<attribute id="Flag" type="int32" value="0" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="91fcb6a4-bf5f-2a3c-f538-8924593a644c-EQP_Daisy_(Icon_Elf_Female)" /> <!--From Elves_Female_High_Daisy-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="85ea2a2f-93df-4baa-846d-022f787f46f9" />  <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Female_Daisy" /> <!--change-->
+					<attribute id="ParentTemplateId" type="FixedString" value="46643924-715f-41bb-b940-67a0b3e16427" /> <!--Mapkey of Calico Female-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" /> <!--keep-->
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="0b378e99-5830-da47-9614-7c4aae3a1e27" /> <!--keep-->
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="17c2405e-5771-4150-ad00-b1ef8d1dd5ae" /> <!--keep-->
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!--Female strong-->
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="3d3afaf5-e090-000e-2f5c-312387d06e5f" /> <!--From Elves_Female_High_Daisy_Strong-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="99b16588-7191-4c74-99c6-48ad3ead5081" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="35d37e63-eaf8-ad97-2571-aac0b7056445-EQP_Daisy_(Icon_Elf_Female)" /> <!--keep-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="5ebc363e-ab33-4da1-ac11-9ee82bb83567" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Female_High_Daisy_Strong" /> <!--change-->
+					<attribute id="ParentTemplateId" type="FixedString" value="85ea2a2f-93df-4baa-846d-022f787f46f9" /> <!--Mapkey of Female Daisy-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" /> <!--keep-->
+					</children>
+				</node>
+				<!--Male-->
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="d1200565-a3b5-31df-3cff-98bc759a7316" /> <!--From Elves_Male_High_Daisy-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="5c9e42c7-fc87-402a-8475-fe8961b29c0a" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="DisplayName" type="TranslatedString" handle="hb95f4779g03c3g44cfg99b7g9ccbfa2468d1" version="1" /> <!--"Calico Nekomimi" from Localization-->
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" /> <!--keep-->
+					<attribute id="Flag" type="int32" value="0" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="2ab62400-3c61-4188-68b0-5276d1b0001f-EQP_Daisy_(Icon_Elf_Male)" /> <!--From Elves_Male_High_Daisy-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="0b0b0c6f-e020-4a53-abd6-52cf25835c42" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Male_High_Daisy" /> <!--change-->
+					<attribute id="ParentTemplateId" type="FixedString" value="533635a0-66c8-4270-b7c6-073d3a54cfc5" /> <!--Mapkey of Calico Male-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" /> <!--keep-->
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="9817eece-ccb2-7f70-ce27-1e10bf08efa5" /> <!--keep-->
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="807af8f5-0183-42d9-8d40-6e93d5236cc2" /> <!--keep-->
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!--Male strong-->
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="a7f1e6d6-908c-100f-74a6-80b73e77d58a" /> <!--From Elves_Male_High_Daisy_Strong-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="8ef7b475-5757-4145-8580-efc5c33827aa" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="b6a4fcb5-9a65-01f2-746b-156668444652-EQP_Daisy_(Icon_Elf_Male)" /> <!--From Elves_Male_High_Daisy_Strong-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="ebca55b6-5e4b-4b3d-8cdb-d40d9efe3471" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Male_High_Daisy_Strong" /> <!--change-->
+					<attribute id="ParentTemplateId" type="FixedString" value="0b0b0c6f-e020-4a53-abd6-52cf25835c42" /> <!--Mapkey of Calico Male Daisy-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" /> <!--keep-->
+					</children>
+				</node>
+				<!--Orange-->
+				<!--Female-->
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="bbf6ee33-3328-946a-9b9f-872f0624e15d" /> <!--From Elves_Female_High_Daisy-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="77a843b9-7ad5-4291-b5d4-5335211b7e9a" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="DisplayName" type="TranslatedString" handle="h6183c8c4ge9a3g4599g849bg57269e40915a" version="1" /> <!--"Orange Nekomimi" from Localization-->
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" /> <!--keep-->
+					<attribute id="Flag" type="int32" value="0" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="91fcb6a4-bf5f-2a3c-f538-8924593a644c-EQP_Daisy_(Icon_Elf_Female)" /> <!--From Elves_Female_High_Daisy-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="15047406-2517-46bd-bdf9-0386a4fb6306" />  <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Female_Daisy" /> <!--change-->
+					<attribute id="ParentTemplateId" type="FixedString" value="381c9c81-c49e-4cfc-a154-35c4b419b80e" /> <!--Mapkey of Orange Female-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" /> <!--keep-->
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="0b378e99-5830-da47-9614-7c4aae3a1e27" /> <!--keep-->
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="17c2405e-5771-4150-ad00-b1ef8d1dd5ae" /> <!--keep-->
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!--Female strong-->
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="3d3afaf5-e090-000e-2f5c-312387d06e5f" /> <!--From Elves_Female_High_Daisy_Strong-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="99b16588-7191-4c74-99c6-48ad3ead5081" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="35d37e63-eaf8-ad97-2571-aac0b7056445-EQP_Daisy_(Icon_Elf_Female)" /> <!--keep-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="f4b14a23-b4fd-4d27-af81-aaaf1c1d866e" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Female_High_Daisy_Strong" /> <!--change-->
+					<attribute id="ParentTemplateId" type="FixedString" value="15047406-2517-46bd-bdf9-0386a4fb6306" /> <!--Mapkey of Female Daisy-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" /> <!--keep-->
+					</children>
+				</node>
+				<!--Male-->
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="d1200565-a3b5-31df-3cff-98bc759a7316" /> <!--From Elves_Male_High_Daisy-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="5c9e42c7-fc87-402a-8475-fe8961b29c0a" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="DisplayName" type="TranslatedString" handle="h6183c8c4ge9a3g4599g849bg57269e40915a" version="1" /> <!--"Orange Nekomimi" from Localization-->
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" /> <!--keep-->
+					<attribute id="Flag" type="int32" value="0" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="2ab62400-3c61-4188-68b0-5276d1b0001f-EQP_Daisy_(Icon_Elf_Male)" /> <!--From Elves_Male_High_Daisy-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="6ae4b6e3-cba4-4abf-b26b-c583c654a64a" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Male_High_Daisy" /> <!--change-->
+					<attribute id="ParentTemplateId" type="FixedString" value="9ad4775d-e2a5-4c72-8fc2-7cda44e7e82a" /> <!--Mapkey of Orange Male-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" /> <!--keep-->
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="9817eece-ccb2-7f70-ce27-1e10bf08efa5" /> <!--keep-->
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="807af8f5-0183-42d9-8d40-6e93d5236cc2" /> <!--keep-->
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!--Male strong-->
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="a7f1e6d6-908c-100f-74a6-80b73e77d58a" /> <!--From Elves_Male_High_Daisy_Strong-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="8ef7b475-5757-4145-8580-efc5c33827aa" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="b6a4fcb5-9a65-01f2-746b-156668444652-EQP_Daisy_(Icon_Elf_Male)" /> <!--From Elves_Male_High_Daisy_Strong-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="11f87464-1c50-440f-a864-1aa577640e17" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Male_High_Daisy_Strong" /> <!--change-->
+					<attribute id="ParentTemplateId" type="FixedString" value="6ae4b6e3-cba4-4abf-b26b-c583c654a64a" /> <!--Mapkey of Orange Male Daisy-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" /> <!--keep-->
+					</children>
+				</node>
+				<!--Void-->
+				<!--Female-->
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="bbf6ee33-3328-946a-9b9f-872f0624e15d" /> <!--From Elves_Female_High_Daisy-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="77a843b9-7ad5-4291-b5d4-5335211b7e9a" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="DisplayName" type="TranslatedString" handle="hb023b6c7g31a2g44d9ga198g35c856cd52ab" version="1" /> <!--"Void Nekomimi" from Localization-->
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" /> <!--keep-->
+					<attribute id="Flag" type="int32" value="0" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="91fcb6a4-bf5f-2a3c-f538-8924593a644c-EQP_Daisy_(Icon_Elf_Female)" /> <!--From Elves_Female_High_Daisy-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="8532aa19-ba44-4110-8366-679b7f9bbbac" />  <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Female_Daisy" /> <!--change-->
+					<attribute id="ParentTemplateId" type="FixedString" value="1a715e85-d096-4a73-a413-e8a3ec244bc0" /> <!--Mapkey of Void Female-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" /> <!--keep-->
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="0b378e99-5830-da47-9614-7c4aae3a1e27" /> <!--keep-->
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="17c2405e-5771-4150-ad00-b1ef8d1dd5ae" /> <!--keep-->
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!--Female strong-->
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="3d3afaf5-e090-000e-2f5c-312387d06e5f" /> <!--From Elves_Female_High_Daisy_Strong-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="99b16588-7191-4c74-99c6-48ad3ead5081" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="35d37e63-eaf8-ad97-2571-aac0b7056445-EQP_Daisy_(Icon_Elf_Female)" /> <!--keep-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="fb2ee14b-8c3e-4310-85af-55e104f30a2c" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Female_High_Daisy_Strong" /> <!--change-->
+					<attribute id="ParentTemplateId" type="FixedString" value="8532aa19-ba44-4110-8366-679b7f9bbbac" /> <!--Mapkey of Female Daisy-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" /> <!--keep-->
+					</children>
+				</node>
+				<!--Male-->
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="d1200565-a3b5-31df-3cff-98bc759a7316" /> <!--From Elves_Male_High_Daisy-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="5c9e42c7-fc87-402a-8475-fe8961b29c0a" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="DisplayName" type="TranslatedString" handle="hb023b6c7g31a2g44d9ga198g35c856cd52ab" version="1" /> <!--"Void Nekomimi" from Localization-->
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" /> <!--keep-->
+					<attribute id="Flag" type="int32" value="0" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="2ab62400-3c61-4188-68b0-5276d1b0001f-EQP_Daisy_(Icon_Elf_Male)" /> <!--From Elves_Male_High_Daisy-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="5296edd1-7e33-4e0f-968b-9503d45e8b05" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Male_High_Daisy" /> <!--change-->
+					<attribute id="ParentTemplateId" type="FixedString" value="8866a54b-fb17-4874-98c4-da9400acc1cc" /> <!--Mapkey of Void Male-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" /> <!--keep-->
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="9817eece-ccb2-7f70-ce27-1e10bf08efa5" /> <!--keep-->
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="807af8f5-0183-42d9-8d40-6e93d5236cc2" /> <!--keep-->
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!--Male strong-->
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="a7f1e6d6-908c-100f-74a6-80b73e77d58a" /> <!--From Elves_Male_High_Daisy_Strong-->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="8ef7b475-5757-4145-8580-efc5c33827aa" /> <!--ID from [PAK]_CharacterVisuals-->
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" /> <!--keep-->
+					<attribute id="Icon" type="FixedString" value="b6a4fcb5-9a65-01f2-746b-156668444652-EQP_Daisy_(Icon_Elf_Male)" /> <!--From Elves_Male_High_Daisy_Strong-->
+					<attribute id="LevelName" type="FixedString" value="" /> <!--keep-->
+					<attribute id="MapKey" type="FixedString" value="cbfd4879-a019-48ff-8766-92b2d1128183" /> <!--generate with multi-tool-->
+					<attribute id="Name" type="LSString" value="Nekomimi_Male_High_Daisy_Strong" /> <!--change-->
+					<attribute id="ParentTemplateId" type="FixedString" value="5296edd1-7e33-4e0f-968b-9503d45e8b05" /> <!--Mapkey of Void Male Daisy-->
+					<attribute id="Type" type="FixedString" value="character" /> <!--keep-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" /> <!--keep-->
+					<children>
+						<node id="LocomotionParams" /> <!--keep-->
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>

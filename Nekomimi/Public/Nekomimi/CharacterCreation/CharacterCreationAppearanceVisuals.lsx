@@ -849,7 +849,6 @@
                 </node>
                 
                 <!--fox ears and cat tails-->
-                <!-- Elf -->
                 <!-- No Ears -->
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0" />
@@ -887,7 +886,7 @@
                     <attribute id="UUID" type="guid" value="ac798c39-1013-44f1-8fb1-424202d8fb73" />
                     <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000" />
                </node>
-                <!-- Fox Ears -->
+                <!-- Ears -->
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
@@ -924,7 +923,7 @@
                     <attribute id="UUID" type="guid" value="e1a86413-ad67-43e4-8d0b-cadc5e6818c9"/>
                     <attribute id="VisualResource" type="guid" value="9a40c747-32df-49de-805a-f48aea8d945e"/>
                 </node>
-                 <!-- Cat NO Tail Elf -->
+                 <!-- NO Tail -->
                   <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
@@ -961,7 +960,7 @@
                     <attribute id="UUID" type="guid" value="0bc4c3b6-9e3e-4305-ae98-e79a2075e148"/>
                     <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                 </node>
-                  <!-- Cat Tail Elf -->
+                  <!-- Tail -->
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
