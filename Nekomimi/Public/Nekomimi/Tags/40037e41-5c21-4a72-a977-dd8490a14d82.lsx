@@ -3,7 +3,7 @@
   <version major="4" minor="0" revision="0" build="58" />
   <region id="Tags">
     <node id="Tags">
-      <attribute id="Description" type="LSString" value="|Void Nekomimi|" />
+      <attribute id="Description" type="LSString" value="|Void|" />
       <attribute id="DisplayDescription" type="TranslatedString" handle="hc71ec142ge21ag41beg9ab7g21e3544bc3b5" version="1" /> <!--generate handle with multi-tool, reference in Localization-->
       <attribute id="DisplayName" type="TranslatedString" handle="hc67c3225gfdb9g47b2g9766gdf73b56a01ff" version="1" />
       <attribute id="Icon" type="FixedString" value="" />
