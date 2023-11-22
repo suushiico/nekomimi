@@ -42,4 +42,12 @@
     <content contentuid="hc67c3225gfdb9g47b2g9766gdf73b56a01ff" version="1">Void Nekomimi</content> 
     <!--Tag Description-->
     <content contentuid="hc71ec142ge21ag41beg9ab7g21e3544bc3b5" version="1">Did that shadow just move? Nope! It's a fluffy Void Nekomimi. Dark as night, these lovely voids blend into the shadows and are amazingly dexterous. You'll need to roll quite high on your perception check in order to clock these kitties!</content> 
+
+    <!--Kitty's Claws Attack (Target_Stronger_Claws in Stats\Generated\Data)-->
+    <content contentuid="hfc38069ageca3g4774gb355g16dd1d0c6bd1" version="1">Kitty's Claws</content>
+    <content contentuid="he8fdc75ag827fg454cg99abg42c7416f9b5f" version="1">Aww you like my nails uwu? Would you like a closer look?</content>
+
+    <!--Nom! :3 Attack (Target_Stronger_Bite in Stats\Generated\Data))-->
+    <content contentuid="hc67c470egc94ag4b4cgb691g53f24141b4e5" version="1">Nom! :3</content>
+    <content contentuid="h53d560abg22bdg4b76gbf74g979ad42c8a79" version="1">uwu give those bad guys a chomp!!!</content>
 </contentList>
