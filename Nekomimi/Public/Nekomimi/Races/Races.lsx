@@ -15,15 +15,6 @@
           <attribute id="RaceSoundSwitch" type="FixedString" value="Elf"/> <!--use from a vanilla race that's similar to your race-->
           <attribute id="UUID" type="guid" value="6d2cb504-0274-4a42-b91a-06e61cbca266"/> <!--generate with multi-tool-->
           <children>
-              <node id="ExcludedGods">
-                  <attribute id="Object" type="guid" value="5d733ec3-ad9a-4d26-bc9c-46a597b109b3"/>
-              </node>
-              <node id="ExcludedGods">
-                  <attribute id="Object" type="guid" value="eba713d1-bfa3-4117-8680-6d07ce1f29f0"/>
-              </node>
-              <node id="ExcludedGods">
-                  <attribute id="Object" type="guid" value="2eb3557f-7ada-41d6-a892-e02def72ef77"/>
-              </node>
               <node id="EyeColors">
                   <attribute id="Object" type="guid" value="1333eae2-9685-449b-8c03-821408f94d45"/>
               </node>
